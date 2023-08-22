@@ -2,7 +2,7 @@
 *.o
 *.a
 *.so
-
+**/.vs
 # Folders
 _obj
 _test
